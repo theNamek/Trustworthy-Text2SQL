@@ -4,3 +4,8 @@
 
 altered_human_tables_v1.json, altered_human_tables_v2.json, altered_human_tables_v3.json这三个文件对应spider dataset中的tables.json文件，是database tables的三个修改版本，相比原版文件只是新增了一些column names，没有新增额外的key，在使用时和原版没有区别，在infer的过程中依次和social_bias_infer_data.json匹配使用，所以最后会得到3个版本的inference结果。
 social_bias_infer_data.json can be downloaded here: https://huggingface.co/datasets/jushuai/Text2SQL_Bias
+
+<p align="center">
+  <img src="BiaSpider_STT.png" width="400"/
+>
+</p>
