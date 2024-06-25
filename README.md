@@ -2,6 +2,11 @@
 
 Data (BiaSpider) for the ACL 2023 paper: Uncovering and Categorizing Social Biases in Text-to-SQL (https://aclanthology.org/2023.acl-long.759.pdf).
 
+<p align="center">
+  <img src="Paradigm.png" width="1000"/
+>
+</p>
+
 ## Citation
 ```bibtex
 @inproceedings{liu-etal-2023-uncovering,
