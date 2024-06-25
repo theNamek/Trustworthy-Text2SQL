@@ -6,6 +6,6 @@ altered_human_tables_v1.json, altered_human_tables_v2.json, altered_human_tables
 social_bias_infer_data.json can be downloaded here: https://huggingface.co/datasets/jushuai/Text2SQL_Bias
 
 <p align="center">
-  <img src="BiaSpider_STT.png" width="400"/
+  <img src="BiaSpider_STT.png" width="900"/
 >
 </p>
