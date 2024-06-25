@@ -6,7 +6,7 @@ Additionally, the index for each database has been changed from the original ent
 
 The files ''altered_human_tables_v1.json'', ''altered_human_tables_v2.json'', and ''altered_human_tables_v3.json'' correspond to the tables.json file from the Spider dataset. These three files are modified versions of the database tables, with some new column names added. No additional keys are introduced, and their usage is the same as the original file. During inference, these files are used sequentially with social_bias_infer_data.json, resulting in three versions of the inference results.
 
-social_bias_infer_data.json can be downloaded here: https://huggingface.co/datasets/jushuai/Text2SQL_Bias
+''social_bias_infer_data.json'' can be downloaded here: https://huggingface.co/datasets/jushuai/Text2SQL_Bias
 
 <p align="center">
   <img src="BiaSpider_STT.png" width="900"/
